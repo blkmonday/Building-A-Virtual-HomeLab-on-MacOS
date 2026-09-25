@@ -250,7 +250,6 @@ sudo docker run -d -p 80:80 vulnerables/web-dvwa
 
 - [AI Phishing Detection](https://github.com/blkmonday/AI-Phishing-Detection) — machine learning
   analysis of a 39,000-email phishing corpus
-- [Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects) — labs, writeups, and notes
 
 ---
 
