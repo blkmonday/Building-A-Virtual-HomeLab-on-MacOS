@@ -246,6 +246,14 @@ sudo docker run -d -p 80:80 vulnerables/web-dvwa
 
 ---
 
+## Related Projects
+
+- [AI Phishing Detection](https://github.com/blkmonday/AI-Phishing-Detection) — machine learning
+  analysis of a 39,000-email phishing corpus
+- [Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects) — labs, writeups, and notes
+
+---
+
 ## Disclaimer
 
 This homelab is intended **strictly for educational and authorized testing purposes**. Never use these tools or techniques against systems you do not own or have explicit written permission to test. Unauthorized access to computer systems is illegal. Always practice responsible and ethical security research.
